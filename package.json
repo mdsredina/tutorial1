@@ -1,0 +1,15 @@
+{
+  "name": "tutorialmds",
+  "version": "1.0.0",
+  "description": "version 1 by me",
+  "main": "index.js",
+  "scripts": { 
+    "hello-world": "echo \"Hello World\""
+  },
+  "author": "mdsredina",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.25.0",
+    "react": "^17.0.2"
+  }
+}
